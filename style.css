@@ -1,0 +1,34 @@
+.tag_product{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapped-card{
+    color:green;
+    font-size: 50px;
+}
+.wrapper-card{
+    color: yellow;
+/**/}
+body{
+    background:red;
+
+}
+*{background: beige;
+
+
+}
+p{
+    background-color: yellowgreen;
+}.product_description_1{
+    background-color: skyblue;
+}
+#unique-product-2{
+    background-color: white;
+}
+li{
+    background-color: violet !important;
+
+}
+.wrapper-card p{
+    background-color: yellow;
+}
